@@ -23,7 +23,6 @@ fluoride,toxic,household item,https://www.petpoisonhelpline.com/poison/fluoride/
 baby's breath,non-toxic,plant,https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
 basil,non-toxic,plant,https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
 cilantro,non-toxic,plant,https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
-petunia,non-toxic,plant,https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
 poison ivy,toxic,plant,https://www.petpoisonhelpline.com/poison/poison-ivy/
 rose,non-toxic,plant,https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
 brown rice,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
@@ -58,7 +57,7 @@ unripe tomatoes,toxic,food,https://www.petpoisonhelpline.com/poison/tomato-plant
 tomato leaves,toxic,plant,https://www.petpoisonhelpline.com/poison/tomato-plant/
 tomato stems,toxic,plant,https://www.petpoisonhelpline.com/poison/tomato-plant/
 multivitamins,toxic,medication,https://www.petpoisonhelpline.com/poison/vitamins/
-coins (zinc),toxic,household item,https://www.petpoisonhelpline.com/poison/zinc/
+coins,toxic,household item,https://www.petpoisonhelpline.com/poison/zinc/
 amaryllis,toxic,plant,https://www.petpoisonhelpline.com/poison/amaryllis/
 venus fly trap,toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/venus-fly-trap
 thyme,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/thyme
@@ -87,3 +86,65 @@ pearl plant,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/
 old man cactus,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/old-man-cactus
 cough medicine,toxic,medication,https://www.petpoisonhelpline.com/poison/cough-medicine/
 antidepressants,toxic,medication,https://www.petpoisonhelpline.com/poison/antidepressants/
+hornets,toxic,animal,https://www.petpoisonhelpline.com/poison/hornets/
+rattlesnake,toxic,animal,https://www.petpoisonhelpline.com/poison/rattlesnake/
+scorpion,toxic,animal,https://www.petpoisonhelpline.com/poison/scorpions/
+toad,toxic,animal,https://www.petpoisonhelpline.com/poison/toads/
+coral snake,toxic,animal,https://www.petpoisonhelpline.com/poison/coral-snake/
+fertilizer,toxic,household item,https://www.petpoisonhelpline.com/poison/fertilizers/
+apricot seed,toxic,food,https://www.petpoisonhelpline.com/poison/apricot/
+apricot leaves,toxic,plant,https://www.petpoisonhelpline.com/poison/apricot/
+apricot stems,toxic,plant,https://www.petpoisonhelpline.com/poison/apricot/
+mushrooms,toxic,food,https://www.petpoisonhelpline.com/poison/mushrooms/
+peach pits,toxic,food,https://www.petpoisonhelpline.com/poison/peach-pits/
+gasoline,toxic,household item,https://www.petpoisonhelpline.com/poison/gasoline/
+kerosene,toxic,household item,https://www.petpoisonhelpline.com/poison/kerosene/
+antifreeze,toxic,household item,https://www.petpoisonhelpline.com/poison/antifreeze/
+mouse and rat poison,toxic,household item,https://www.petpoisonhelpline.com/poison/mouse-and-rat-poison/
+windshield wiper fluid,toxic,household item,https://www.petpoisonhelpline.com/poison/windshield-wiper-fluid/
+herbicides,toxic,household item,https://www.petpoisonhelpline.com/poison/herbicides/
+batteries,toxic,household item,https://www.petpoisonhelpline.com/poison/batteries/
+detergents,toxic,household item,https://www.petpoisonhelpline.com/poison/detergents/
+fireworks,toxic,household item,https://www.petpoisonhelpline.com/poison/fireworks/
+hand sanitizer,toxic,household item,https://www.petpoisonhelpline.com/poison/hand-sanitizer/
+gorilla glue,toxic,household item,https://www.petpoisonhelpline.com/poison/gorilla-glue/
+matches,toxic,household item,https://www.petpoisonhelpline.com/poison/matches/
+super glue,toxic,household item,https://www.petpoisonhelpline.com/poison/super-glue/
+tinsel,toxic,household item,https://www.petpoisonhelpline.com/poison/tinsel/
+calla lily,toxic,plant,https://www.petpoisonhelpline.com/poison/calla-lily/
+african evergreen,toxic,plant,https://www.petpoisonhelpline.com/poison/african-evergreen/
+alocasia,toxic,plant,https://www.petpoisonhelpline.com/poison/alocasia/
+Elephants ear,toxic,plant,https://www.petpoisonhelpline.com/poison/alocasia/
+christmas rose,toxic,plant,https://www.petpoisonhelpline.com/poison/christmas-rose/
+chrysanthemum,toxic,plant,https://www.petpoisonhelpline.com/poison/chrysanthemum/
+daffodil,toxic,plant,https://www.petpoisonhelpline.com/poison/daffodil/
+easter lily,toxic,plant,https://www.petpoisonhelpline.com/poison/easter-lily/
+foxglove,toxic,plant,https://www.petpoisonhelpline.com/poison/foxglove/
+ghost plant,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/ghost-plant
+gold bloom,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/gold-bloom
+grape ivy,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/grape-ivy
+hawthorn,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/hawthorn
+hibiscus,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/hibiscus
+irish moss,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/irish-moss
+jasmine,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/jasmine
+jewel orchid,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/jewel-orchid
+lady slipper,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lady-slipper
+lemon balm,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lemon-balm
+magnolia bush,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/magnolia-bush
+money tree,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/money-tree
+moss agate,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/moss-agate
+orange star,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/orange-star
+pepper face,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/pepper-face
+olive oil,toxic,food,https://www.aspca.org/news/it-ever-safe-induce-vomiting
+salt,toxic,food,https://www.aspca.org/news/it-ever-safe-induce-vomiting
+ipecaca,toxic,medication,https://www.aspca.org/news/it-ever-safe-induce-vomiting
+alstromeria,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/peruvian-lily
+tree cactus,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/tree-cactus
+velvet plant,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/velvet-plant
+umbrella plant,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/umbrella-plant
+waffle plant,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/waffle-plant
+water hickory,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/water-hickory
+west indian gherkin,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/west-indian-gherkin
+western sword,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/western-sword
+wild hyacinth,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/wild-hyacinth
+willow herb,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/willow-herb

@@ -1,0 +1,89 @@
+text,label,category,source
+chocolate,toxic,food,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+onion,toxic,food,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+grapes,toxic,food,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+gum (xylitol),toxic,food,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+macadamia nuts,toxic,food,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+garlic,toxic,food,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+chives,toxic,food,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+coffee,toxic,drink,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+alcohol,toxic,drink,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+yeast dough,toxic,food,https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+blueberries,non-toxic,food,https://www.petpoisonhelpline.com/uncategorized/what-are-some-foods-safe-to-feed-pets/
+peeled apples (deseeded),non-toxic,food,https://www.petpoisonhelpline.com/uncategorized/what-are-some-foods-safe-to-feed-pets/
+carrots,non-toxic,food,https://www.petpoisonhelpline.com/uncategorized/what-are-some-foods-safe-to-feed-pets/
+lettuce,non-toxic,food,https://www.petpoisonhelpline.com/uncategorized/what-are-some-foods-safe-to-feed-pets/
+peas,non-toxic,food,https://www.petpoisonhelpline.com/uncategorized/what-are-some-foods-safe-to-feed-pets/
+sweet potatoes,non-toxic,food,https://www.petpoisonhelpline.com/uncategorized/what-are-some-foods-safe-to-feed-pets/
+squash,non-toxic,food,https://www.petpoisonhelpline.com/uncategorized/what-are-some-foods-safe-to-feed-pets/
+spider plants,non-toxic,plant,https://www.petpoisonhelpline.com/uncategorized/pet-safe-plants-flora-and-fauna-can-coexist/
+aloe vera,toxic,plant,https://www.petpoisonhelpline.com/poison/aloe-vera/
+caffeine,toxic,food,https://www.petpoisonhelpline.com/poison/caffeine/
+fluoride,toxic,household item,https://www.petpoisonhelpline.com/poison/fluoride/
+baby's breath,non-toxic,plant,https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
+basil,non-toxic,plant,https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
+cilantro,non-toxic,plant,https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
+petunia,non-toxic,plant,https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
+poison ivy,toxic,plant,https://www.petpoisonhelpline.com/poison/poison-ivy/
+rose,non-toxic,plant,https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list
+brown rice,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+cooked chicken,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+cooked fish,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+cooked eggs,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+cooked beef,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+cooked turkey,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+cooked lamb,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+oats,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+steamed broccoli,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+asparagus,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+bananas,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+watermelon (seedless),non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+pumpkin,non-toxic,food,https://www.purina.co.uk/articles/cats/feeding/what-cats-eat/human-foods-for-cats
+bleach,toxic,household item,https://www.cats.org.uk/cats-blog/are-cleaning-products-safe-for-cats
+dishwasher tablets,toxic,household item,https://www.cats.org.uk/cats-blog/are-cleaning-products-safe-for-cats
+lilies,toxic,plant,https://www.petpoisonhelpline.com/poison/lilies/
+leeks,toxic,food,https://www.petpoisonhelpline.com/poison/leeks/
+naproxen,toxic,medication,https://www.petpoisonhelpline.com/poison/naproxen/
+nightshade,toxic,plant,https://www.petpoisonhelpline.com/poison/nightshade/
+nicotine,toxic,medication,https://www.petpoisonhelpline.com/poison/nicotine/
+peace lily,toxic,plant,https://www.petpoisonhelpline.com/poison/mauna-loa-peace-lily/
+peony,toxic,plant,https://www.petpoisonhelpline.com/poison/peony/
+potato (green),toxic,food,https://www.petpoisonhelpline.com/poison/potato-green/
+rhododendron,toxic,plant,https://www.petpoisonhelpline.com/poison/rhododendrons/
+black widow spider,toxic,animal,https://www.petpoisonhelpline.com/poison/spiders/
+brown recluse spider,toxic,animal,https://www.petpoisonhelpline.com/poison/spiders/
+star fruit,toxic,food,https://www.petpoisonhelpline.com/poison/starfruit/
+tea tree oil,toxic,household item,https://www.petpoisonhelpline.com/poison/tea-tree-oil/
+unripe tomatoes,toxic,food,https://www.petpoisonhelpline.com/poison/tomato-plant/
+tomato leaves,toxic,plant,https://www.petpoisonhelpline.com/poison/tomato-plant/
+tomato stems,toxic,plant,https://www.petpoisonhelpline.com/poison/tomato-plant/
+multivitamins,toxic,medication,https://www.petpoisonhelpline.com/poison/vitamins/
+coins (zinc),toxic,household item,https://www.petpoisonhelpline.com/poison/zinc/
+amaryllis,toxic,plant,https://www.petpoisonhelpline.com/poison/amaryllis/
+venus fly trap,toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/venus-fly-trap
+thyme,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/thyme
+sweet potato vine,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/sweet-potato-vine
+swedish ivy,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/swedish-ivy
+sunflower,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/sunflower
+lipstick,toxic,household item,https://www.aspca.org/pet-care/aspca-poison-control/poisonous-household-products
+lip gloss,toxic,household item,https://www.aspca.org/pet-care/aspca-poison-control/poisonous-household-products
+toothpaste,toxic,household item,https://www.aspca.org/pet-care/aspca-poison-control/poisonous-household-products
+dryer sheets,toxic,household item,https://www.aspca.org/pet-care/aspca-poison-control/poisonous-household-products
+fabric softener,toxic,household item,https://www.aspca.org/pet-care/aspca-poison-control/poisonous-household-products
+vinegar,toxic,household item,https://www.aspca.org/pet-care/aspca-poison-control/poisonous-household-products
+bones,toxic,food,https://www.petmd.com/cat/nutrition/what-human-foods-can-cats-eat
+spinach,non-toxic,food,https://www.peta.org/lifestyle/animal-companions/human-food-cats/
+cucumber,non-toxic,food,https://www.peta.org/lifestyle/animal-companions/human-food-cats/
+green beans,non-toxic,food,https://www.peta.org/lifestyle/animal-companions/human-food-cats/
+cantaloupe,non-toxic,food,https://www.peta.org/lifestyle/animal-companions/human-food-cats/
+strawberries,non-toxic,food,https://www.peta.org/lifestyle/animal-companions/human-food-cats/
+raspberries,non-toxic,food,https://www.peta.org/lifestyle/animal-companions/human-food-cats/
+sage,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/sage
+rosemary,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/rosemary
+prayer plant,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/prayer-plant
+pot marigold,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/pot-marigold
+petunia,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/petunia
+pearl plant,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/pearl-plant
+old man cactus,non-toxic,plant,https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/old-man-cactus
+cough medicine,toxic,medication,https://www.petpoisonhelpline.com/poison/cough-medicine/
+antidepressants,toxic,medication,https://www.petpoisonhelpline.com/poison/antidepressants/

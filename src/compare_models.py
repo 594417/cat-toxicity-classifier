@@ -44,7 +44,8 @@ for name, classifier in models.items():
             "accuracy": "accuracy",
             "precision": make_scorer(precision_score, pos_label="toxic"),
             "recall": make_scorer(recall_score, pos_label="toxic"),
-            "f1": make_scorer(f1_score, pos_label="toxic")
+            "f1": make_scorer(f1_score, pos_label="toxic"),
+            "f1_macro": "f1_macro"
         },
     )
     
@@ -53,3 +54,4 @@ for name, classifier in models.items():
     print(f"Precision: {scores['test_precision'].mean():.2%}")
     print(f"Recall: {scores['test_recall'].mean():.2%}")
     print(f"F1 Score: {scores['test_f1'].mean():.2%}")
+    print(f"Macro F1: {scores['test_f1_macro'].mean():.2%}")
